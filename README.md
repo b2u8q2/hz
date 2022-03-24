@@ -1,4 +1,4 @@
-# Test
+# Test-Xray
 
 **若需部署 V2Ray VLESS，请转到 [vless](https://github.com/b2u8q2/test/tree/vless) 分支。**
 
