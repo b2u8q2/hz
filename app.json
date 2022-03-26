@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "description": "test",
+    "name": "hz",
+    "description": "hz",
     "keywords": ["V2Ray"],
     "env": {
         "ID": {
@@ -13,6 +13,6 @@
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/b2u8q2/test",
+    "repository": "https://github.com/b2u8q2/hz",
     "stack": "container"
 }
