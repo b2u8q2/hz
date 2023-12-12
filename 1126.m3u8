@@ -20,7 +20,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="港•澳•台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/香港卫视" tvg-id="香港卫视" tvg-name="香港卫视" group-title="港•澳•台",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flvJ2
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1,功夫台
 https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 #EXTINF:-1,RTHK32
