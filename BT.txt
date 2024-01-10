@@ -876,20 +876,16 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 
 
 少儿频道,#genre#
-南京少儿,https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8?zjiangsd
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/720p.m3u8
 云南少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 卡酷少儿,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001245/index.m3u8?
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
 黑龙江少儿,http://[2409:8087:1a01:df::4035]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
 金鹰卡通,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
